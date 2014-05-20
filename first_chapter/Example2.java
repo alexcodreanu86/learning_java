@@ -9,7 +9,7 @@ class Example2 {
     /* the two variables could be also declared in one line like this: 
      * int var1, var2;
      */
-    var1 = 1024;
+    var1 = 1025;
     System.out.println("var1 contains " + var1);
 
     var2 = var1 / 2;
